@@ -22,29 +22,24 @@ Node.js and Express installed
 $ git clone https://github.com/vijaygehlot/users-detail.git
 
 ```
-2. Install server-side dependencies:
+
+
+2. Install all dependencies:
 
 ```
+$ cd user-detail
 $ npm install
 ```
 
-3. Install client-side dependencies:
-
-```
-$ cd client
-$ npm install
-```
-
-4. Build the app:
+3. Build the app:
 
 ```
 $ npm run build
 ```
 
-5. Run the app:
+4. Run the app:
 
 ```
-$ cd ..
 $ npm run start
 ```
 
