@@ -43,6 +43,7 @@ $ npm run build
 ```
 $ cd ..
 $ npm run start
+```
 
 
 The application should now run on <code>localhost:3000</code>
