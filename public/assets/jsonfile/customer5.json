@@ -1,0 +1,12 @@
+{
+	"id": 5,
+	"name": "Vijay",
+	"email": "vijay@codemymobile",
+	"phone": "8590388896",
+	"city": "Jaipur",
+	"state": "Rajasthan",
+	"country": "India",
+	"organization": "Codemymobile",
+	"jobProfile": "Full-Stack Developer",
+	"additionalInfo": "Testing of the Products in general"
+}

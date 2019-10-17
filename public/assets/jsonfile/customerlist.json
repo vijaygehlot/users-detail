@@ -1,0 +1,26 @@
+[{
+	"id": 1,
+	"name": "Ankit",
+	"email": "ankit@codemymobile.com",
+	"phone": "123412345"
+}, {
+	"id": 2,
+	"name": "Avinash",
+	"email": "avinash@test.com",
+	"phone": "987654321"
+}, {
+	"id": 3,
+	"name": "Gourav",
+	"email": "gourav@codemymobile.com",
+	"phone": "9752485632"
+}, {
+	"id": 4,
+	"name": "Pushpendra",
+	"email": "pushpendra@codemymobile.com",
+	"phone": "8556201478"
+},{
+	"id": 5,
+	"name": "Vijay",
+	"email": "vijay@codemymobile.com",
+	"phone": "8290388256"
+}]
