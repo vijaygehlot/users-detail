@@ -12,7 +12,7 @@ Users application with following features:
 
 ## Requirements
 
-Node.js and MySQL installed
+Node.js and Expres installed
 
 ## Installation and Usage on Local Machine
 
