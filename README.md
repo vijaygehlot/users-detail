@@ -19,7 +19,7 @@ Node.js and Express installed
 1. Clone the repo:
 
 ```
-$ git clone https://github.com/vijaygehlot/employees-registration.git
+$ git clone https://github.com/vijaygehlot/users-detail.git
 
 ```
 2. Install server-side dependencies:
