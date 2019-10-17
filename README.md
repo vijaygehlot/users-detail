@@ -6,7 +6,9 @@ Users application with following features:
 
 * Listing of all the records (possibly) currently (added ) in the database by local json
 
-![user](https://user-images.githubusercontent.com/26818479/66986796-32122780-f0dd-11e9-83da-1e45115cfdf0.png)
+![screenshot](https://user-images.githubusercontent.com/26818479/66987607-bb762980-f0de-11e9-9e82-60b3861aff84.png)
+
+
 
 ## Requirements
 
