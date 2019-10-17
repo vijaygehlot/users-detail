@@ -2,7 +2,7 @@
 
 ## Description
 
-Employees-Registration application with following features:
+Users application with following features:
 
 * Listing of all the records (possibly) currently (added ) in the database by local json
 
